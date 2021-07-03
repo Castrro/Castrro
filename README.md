@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Castrro
 - 👀 I’m interested in ...web development and software development
 - 🌱 I’m currently learning ...react.js , node.js
+- I'm intermediate in java, Expert in HTML5 and CSS3 , Intermediate Java Script
 - 💞️ I’m looking to collaborate on projects, either big or small
+- 
 - 📫 How to reach me ...whatsapp : 09064286189 (text only)....telegram : 09064286189 (text only)
 
 <!---
